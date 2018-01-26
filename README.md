@@ -2,3 +2,4 @@
 My first repository
 ![pic](whale.jpg)
 ![document](Terminal_howto.odt)
+![hiddenfile](.travis.yml)
