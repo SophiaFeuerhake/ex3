@@ -4,4 +4,4 @@ My first repository
 ![document](Terminal_howto.odt)
 ![hiddenfile](.travis.yml)
 ![file](check_dead_links)
-![Python](Python)
+![Python](Python.py)
